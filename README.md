@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**M4N3L-SM/M4N3L-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I’m **Manel** (aka **M4N3L**) — a systems administrator on a journey to becoming a proper **DevOps** someday 😄  
+I've been working for the last 3 years as SysAdmin on various VFX companies. 
+This GitHub is my little playground: scripts, tools, and experiments—mostly things that solve real problems or scratch an itch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Linux & Windows wizardry
+- Bash, PowerShell & small scripting hacks
+- Monitoring, networking & keeping things fast and secure
+
+---
+
+I’m always up for geeking out, learning new tricks, or building cool tools. Feel free to reach out or connect on LinkedIn. Let’s make tech a bit more fun.
+
+> _"Do it once, fine. Do it twice? Automate it."_ — some sysadmin in a hurry 😎
